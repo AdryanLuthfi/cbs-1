@@ -1,4 +1,5 @@
 Nama	: Angga Kresnabayu
 NPM	: 140810160001
-TTL	: Cirebon,20 Agustus 1998
-JK	: Laki-laki
+
+Nama	: Adriyan Luthfy Faiz
+NPM	: 140810160049
